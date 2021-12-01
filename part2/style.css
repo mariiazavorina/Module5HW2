@@ -1,0 +1,27 @@
+#redP{
+    color: green;
+}
+a[href^="https://"]{
+    color: red;
+}
+.list>li:last-child{
+    background: green;
+}
+ul+p{
+    font-size: 26px;
+}
+.yellow{
+color: yellow;
+}
+#greycol{
+    color: gray;
+}
+.text-box>h3:first-child{
+    color:pink;
+}
+.text-box>div>p{
+    color:red;
+}
+.text-box>p:nth-child(7){
+    color: green;
+}
